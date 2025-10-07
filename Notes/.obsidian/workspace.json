@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0b6e121b779e9e6",
+            "id": "fb7a2a782a12d66b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md"
+                "file": "Excalidraw/mu-problem.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Ortogonal-Expansion-Homework.excalidraw"
+              "title": "mu-problem.excalidraw"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
+                "file": "Excalidraw/mu-problem.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ortogonal-Expansion-Homework.excalidraw"
+              "title": "Backlinks for mu-problem.excalidraw"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
+                "file": "Excalidraw/mu-problem.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ortogonal-Expansion-Homework.excalidraw"
+              "title": "Outgoing links from mu-problem.excalidraw"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
+                "file": "Excalidraw/mu-problem.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ortogonal-Expansion-Homework.excalidraw"
+              "title": "Outline of mu-problem.excalidraw"
             }
           }
         ]
@@ -169,9 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0b6e121b779e9e6",
+  "active": "fb7a2a782a12d66b",
   "lastOpenFiles": [
     "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
+    "Excalidraw/mu-problem.excalidraw.md",
+    "Untitled.md",
     "Excalidraw",
     "Untitled"
   ]
