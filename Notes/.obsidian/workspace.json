@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "caf26d899a514a29",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ee1c52bd0bff0f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0b6e121b779e9e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ortogonal-Expansion-Homework.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9da1ef291a6e5a00",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f0284b7030ca6c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99b15780dbf0da99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac93f6a12bf38850",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "64eb3d79cb31a411",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3103c336d9eb79b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eaf64277178996b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ea85a6301b43912",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ortogonal-Expansion-Homework.excalidraw"
+            }
+          },
+          {
+            "id": "9a9444d4774a52d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ortogonal-Expansion-Homework.excalidraw"
+            }
+          },
+          {
+            "id": "134dc68dbaa80b28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf55dca981528633",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ortogonal-Expansion-Homework.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c0b6e121b779e9e6",
+  "lastOpenFiles": [
+    "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
+    "Excalidraw",
+    "Untitled"
+  ]
+}
