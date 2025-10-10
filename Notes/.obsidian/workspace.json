@@ -25,12 +25,14 @@
             "id": "c6f836360f7879ed",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-08 22.39.31.excalidraw.md"
+                "file": "Perturbación Regular.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-08 22.39.31.excalidraw"
+              "icon": "lucide-file",
+              "title": "Perturbación Regular"
             }
           }
         ],
@@ -186,7 +188,10 @@
   },
   "active": "c6f836360f7879ed",
   "lastOpenFiles": [
+    "Excalidraw/Singular-Perturbation-Excercise.excalidraw.md",
     "Untitled.md",
+    "Perturbación Regular.md",
+    "Singular Perturbation.md",
     "Excalidraw/Drawing 2025-10-08 22.39.31.excalidraw.md",
     "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
     "Excalidraw/mu-problem.excalidraw.md",
