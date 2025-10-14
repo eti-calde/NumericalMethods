@@ -3,3 +3,5 @@
 - [ ] Nueva versión del Precondicionador óptimo con M_inv tridiagonal inferior || (M_inv ) A (M_inv.T) - I ||_frob. Ver qué pasa con los casos límites, generar un k para ir aumentando diagonales, ver que pasa con k=n, llegamos a LU? LU- incompleto? ¿I no es necesario que sea I, puede simplemente ser una matriz diagonal, pero ceros fuera de la diagonal,  seguramente sea más facil con un lambda I grande, para llevarla a una diagonal dominante?
 - [ ] Diego, explicar Variante PCA
 - [ ] Ejercicio Perturbación singular Pg4.
+- [ ] Gráficar funciones de la expansión ortogonal.ipynb
+- [ ] Ver Ready Player One y Kung Fu Panda 3
