@@ -68,9 +68,33 @@
               "icon": "excalidraw-icon",
               "title": "Proyecto-Etienne.excalidraw"
             }
+          },
+          {
+            "id": "02d38a4994f0c63e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Kernel-degenerado.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Kernel-degenerado.excalidraw"
+            }
+          },
+          {
+            "id": "1cacbae038b6e4f1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Differentiation-Matrices.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Differentiation-Matrices.excalidraw"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -221,17 +245,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f50e5cad6be69d83",
+  "active": "1cacbae038b6e4f1",
   "lastOpenFiles": [
+    "Excalidraw/Kernel-degenerado.excalidraw.md",
+    "Excalidraw/Differentiation-Matrices.excalidraw.md",
     "Excalidraw/Proyecto-Etienne.excalidraw.md",
     "Gemelos Digitales.md",
+    "05b_Fredholm_with_degenerated_kernel.pdf",
     "Excalidraw/Drawing 2025-10-16 18.37.29.excalidraw.md",
     "Excalidraw/Ortogonal-Expansion.excalidraw.md",
     "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
     "Excalidraw/Singular-Perturbation-Excercise.excalidraw.md",
     "Excalidraw/Drawing 2025-10-08 22.39.31.excalidraw.md",
     "Excalidraw/mu-problem.excalidraw.md",
-    "05b_Fredholm_with_degenerated_kernel.pdf",
     "Perturbación Regular.md",
     "Singular Perturbation.md",
     "Untitled.md",
