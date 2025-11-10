@@ -4,85 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee1c52bd0bff0f9",
+        "id": "b6b00858045dee9a",
         "type": "tabs",
         "children": [
           {
-            "id": "fb7a2a782a12d66b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05b_Fredholm_with_degenerated_kernel.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "05b_Fredholm_with_degenerated_kernel"
-            }
-          },
-          {
-            "id": "49964715979e2e54",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/APCISS-Theory-IV.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "APCISS-Theory-IV.excalidraw"
-            }
-          },
-          {
-            "id": "a270a06179eb9d88",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Ortogonal-Expansion.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Ortogonal-Expansion.excalidraw"
-            }
-          },
-          {
-            "id": "17c7762d14d1e904",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Differentiation-Matrices.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Differentiation-Matrices.excalidraw"
-            }
-          },
-          {
-            "id": "0759acac77179b58",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-16 18.37.29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-16 18.37.29.excalidraw"
-            }
-          },
-          {
-            "id": "f32bdffd35315226",
+            "id": "9c251a8b55f2de51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemelos Digitales.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gemelos Digitales"
+              "title": "Untitled"
             }
           },
           {
-            "id": "7b8080d79e1a314f",
+            "id": "52360a894d4b9991",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -94,19 +34,31 @@
             }
           },
           {
-            "id": "a70b987900fce22c",
+            "id": "7298d18e43e52e24",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-28 14.44.16.excalidraw.md"
+                "file": "Excalidraw/Combustion Bart II.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-28 14.44.16.excalidraw"
+              "title": "Combustion Bart II.excalidraw"
+            }
+          },
+          {
+            "id": "26eda6747aa8ff73",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-08 21.37.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-08 21.37.24.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,9 +209,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "918a1f320e171569",
+  "active": "26eda6747aa8ff73",
   "lastOpenFiles": [
-    "Excalidraw/APCISS-Theory-IV.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-08 21.37.24.excalidraw.md",
+    "Excalidraw/Combustion Bart II.excalidraw.md",
+    "Open Foam.md",
+    "Excalidraw/Wildfire-Optimization.excalidraw.md",
+    "Combustion Modelling in Fire Simulations.md",
+    "Untitled.md",
+    "Excalidraw/APCISS-Theory-BART.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-28 14.44.16.excalidraw.md",
+    "Gemelos Digitales.md",
+    "Excalidraw/Drawing 2025-10-16 18.37.29.excalidraw.md",
+    "Excalidraw/Differentiation-Matrices.excalidraw.md",
+    "Excalidraw/Ortogonal-Expansion.excalidraw.md",
+    "APCISS/APCISS-Theory-IV.excalidraw.md",
+    "APCISS/APCISS-Theory-V.excalidraw.md",
+    "APCISS/APCISS-Theory-VI.excalidraw.md",
+    "APCISS/APCISS-Theory-VII.excalidraw.md",
     "05b_Fredholm_with_degenerated_kernel.pdf",
     "APCISS/APCISS-Theory-III.excalidraw.md",
     "APCISS/Untitled 2.md",
@@ -268,23 +235,11 @@
     "Untitled 2.md",
     "APCISS",
     "Untitled",
-    "Excalidraw/Ortogonal-Expansion.excalidraw.md",
     "Untitled 1.md",
-    "Excalidraw/Drawing 2025-10-28 14.44.16.excalidraw.md",
-    "Excalidraw/Wildfire-Optimization.excalidraw.md",
     "Excalidraw/Drawing 2025-10-28 14.35.45.excalidraw.md",
     "Excalidraw/Wildfire Code Analysis.excalidraw.md",
-    "Excalidraw/Differentiation-Matrices.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-16 18.37.29.excalidraw.md",
     "Excalidraw/Kernel-degenerado.excalidraw.md",
-    "Gemelos Digitales.md",
     "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
-    "Excalidraw/Singular-Perturbation-Excercise.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-08 22.39.31.excalidraw.md",
-    "Excalidraw/mu-problem.excalidraw.md",
-    "Perturbación Regular.md",
-    "Singular Perturbation.md",
-    "Untitled.md",
     "Excalidraw"
   ]
 }

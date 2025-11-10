@@ -1,0 +1,186 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+APCIIS MACHINE LEARNING PHY
+
+ ^gyPxCwW2
+
+- we had high dimensional space
+- parametrize problems help, like Z mixture fracction
+- community produce a lot of data that we don't utilize
+    DNS Simms
+
+WHY DIRECT NUMERICAL SIMM (DNS)
+- fully resolve turbulence-chemistry interaction
+- brute force chimistry becomes impossible
+- inestability has its one scale 
+
+DNS SOTA
+
+- computers are faster now
+- projects: S3D & Pele (2nd order FD)
+
+
+AI/ML IN COMBUSTION R&D OUTLINE
+- reduced order models: high-dm -> manifold low dim
+more cheap. closure modeling
+- Anomaly detection of pre-knock 
+- LLM 1d, CNN (images) 2D, but CDF is high DM thats a challenge
+- Manhattan 2, Genesis Model -> fundational model to high dm problems
+
+
+INTRODUCTION CHALLENGE OF DNS
+- complex fuel -> more speciec -> more reaction steps
+- expensive
+
+REDUCED ORDER MODELING
+- decrease # or governing eqs
+
+
+DDIMENSIONALITY REDUCTION
+- Model Driven -> Flamelet -> could be hard to parametrize
+- Data Driven -> PCA -> manifold derive from data
+
+
+# DATA-BASED ROM: PC-TRANSPORT ROM
+
+1. Data sampling
+- 2D Temp y homogeneidad, impose conditions
+- DNS with high dim, run a lot of simmulations
+- create a DB.
+- Choose representative species.
+- domain knowledge, hand select.
+- develop transport equations
+
+2 Dim Reduction
+- Perform PCA, try to capture all the variance
+- app 10 components VS 160 species (Diesel).
+- proyect on the new space.
+- Get PC-transport eq.
+
+3 Create ANN 
+- optimize non linear relationship.
+- usan Tensorflow & Keras
+
+4 Run 
+- PCA transport model
+- Compare with DNS
+
+
+# DATA BASED ROM : PC-TRANSPORT ROM
+- 
+
+# ACCELERATIN DNA WITH TIME DEPENDENT BASIS
+- Time dependet bsaes with CUR Decomposition
+- tall skinny matrix 
+- has chemical stiffness
+
+
+# TIME DEPENDEN BASES WITH CUR Decomposition
+- apply SBD to matrix of flattened species field
+- is just SVD over RHS
+- very expensive, 1 SVD for each point on the grid
+- CUR- the rows are the grid points and columns the species.
+- its an oblique projection instead of orthogonal.
+
+
+# TBD-CUR
+- rank adaptative, fewer elementary reaction
+- obstacle: selected number of species
+- use computational singular perturbation (CSP)
+
+
+# AI INITIATIVE AT THE DOE
+- agentict workflows
+- new foundational models
+- forescasting, safety critical event
+
+
+# WHAT DATA IS AVAILABlE?
+- DNS dataset, reacting and not reacting, compress and ready for machine learning
+- Public Data sources
+BLASTNet, John Hopkins Databas, Engine Combustion Network, TNF Workshop.
+Objl mix all dataset, make a new foundational model
+end with industrial applications
+
+# DATA IN FLOW PHYSICS
+- diverse data
+multiscale adaptative trustworthy foundation model MATEY ^lKcP6DAe
+
+%%
+## Drawing
+```compressed-json
+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
+```
+%%
