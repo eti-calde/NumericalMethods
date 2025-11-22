@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "modelling forest fires II"
             }
+          },
+          {
+            "id": "235dbbbebb99bcab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/P-phase-equation.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "P-phase-equation.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,10 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02484f37cc35180c",
+  "active": "235dbbbebb99bcab",
   "lastOpenFiles": [
-    "mass fraction.md",
+    "Excalidraw/P-phase-equation.excalidraw.md",
     "Wildfires/modelling forest fires II.md",
+    "mass fraction.md",
     "mesoscopic scale.md",
     "semi-empirical wildfire models.md",
     "Wildfires/envelop wildfire model.md",
@@ -201,7 +215,6 @@
     "APCISS/APCISS-Theory-IV.excalidraw.md",
     "APCISS/APCISS-Theory-V.excalidraw.md",
     "APCISS/APCISS-Theory-VII.excalidraw.md",
-    "Excalidraw/Wildfire-Optimization.excalidraw.md",
     "APCISS",
     "Untitled",
     "Excalidraw"
