@@ -8,57 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c251a8b55f2de51",
+            "id": "02484f37cc35180c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Wildfires/modelling forest fires II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "modelling forest fires II"
             }
           },
           {
-            "id": "52360a894d4b9991",
+            "id": "235dbbbebb99bcab",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Wildfire-Optimization.excalidraw.md"
+                "file": "Excalidraw/P-phase-equation.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Wildfire-Optimization.excalidraw"
-            }
-          },
-          {
-            "id": "7298d18e43e52e24",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Combustion Bart II.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Combustion Bart II.excalidraw"
-            }
-          },
-          {
-            "id": "26eda6747aa8ff73",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-11-08 21.37.24.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-08 21.37.24.excalidraw"
+              "title": "P-phase-equation.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -132,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Proyecto-Etienne.excalidraw.md",
+                "file": "Wildfires/modelling forest fires II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Proyecto-Etienne.excalidraw"
+              "title": "Backlinks for modelling forest fires II"
             }
           },
           {
@@ -209,37 +185,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26eda6747aa8ff73",
+  "active": "235dbbbebb99bcab",
   "lastOpenFiles": [
+    "Excalidraw/P-phase-equation.excalidraw.md",
+    "Wildfires/modelling forest fires II.md",
+    "mass fraction.md",
+    "mesoscopic scale.md",
+    "semi-empirical wildfire models.md",
+    "Wildfires/envelop wildfire model.md",
+    "Wildfires/cellular automata wildfire models.md",
     "Excalidraw/Drawing 2025-11-08 21.37.24.excalidraw.md",
-    "Excalidraw/Combustion Bart II.excalidraw.md",
+    "Wildfires/percolation.md",
+    "05b_Fredholm_with_degenerated_kernel.pdf",
+    "Singular Perturbation.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Perturbación Regular.md",
     "Open Foam.md",
-    "Excalidraw/Wildfire-Optimization.excalidraw.md",
-    "Combustion Modelling in Fire Simulations.md",
-    "Untitled.md",
-    "Excalidraw/APCISS-Theory-BART.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-28 14.44.16.excalidraw.md",
     "Gemelos Digitales.md",
-    "Excalidraw/Drawing 2025-10-16 18.37.29.excalidraw.md",
-    "Excalidraw/Differentiation-Matrices.excalidraw.md",
-    "Excalidraw/Ortogonal-Expansion.excalidraw.md",
+    "Combustion Modelling in Fire Simulations.md",
+    "Wildfires",
+    "Excalidraw/Modelling-Forest-Fires(Magerit).excalidraw.md",
+    "Excalidraw/cc511-11.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-28 14.44.16.excalidraw.md",
+    "APCISS/Combustion Bart II.excalidraw.md",
+    "APCISS/APCISS-Theory-BART.excalidraw.md",
+    "APCISS/APCISS-Theory-VI.excalidraw.md",
+    "APCISS/APCISS-Theory-III.excalidraw.md",
     "APCISS/APCISS-Theory-IV.excalidraw.md",
     "APCISS/APCISS-Theory-V.excalidraw.md",
-    "APCISS/APCISS-Theory-VI.excalidraw.md",
     "APCISS/APCISS-Theory-VII.excalidraw.md",
-    "05b_Fredholm_with_degenerated_kernel.pdf",
-    "APCISS/APCISS-Theory-III.excalidraw.md",
-    "APCISS/Untitled 2.md",
-    "APCISS/APCISS-Theory-I.excalidraw.md",
-    "APCISS/APCISS-Theory-II.excalidraw.md",
-    "Untitled 2.md",
     "APCISS",
     "Untitled",
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2025-10-28 14.35.45.excalidraw.md",
-    "Excalidraw/Wildfire Code Analysis.excalidraw.md",
-    "Excalidraw/Kernel-degenerado.excalidraw.md",
-    "Excalidraw/Ortogonal-Expansion-Homework.excalidraw.md",
     "Excalidraw"
   ]
 }
